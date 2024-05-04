@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "paper roast dosa",
+      "amt": "399",
+      "shop": "sri saivihar",
+      "ftype": "veg",
+      "pic": "https://placehold.jp/450x300.png",
+      "latest": "No"
+    },
+    {
+      "id": 2,
+      "name": "Farmers Pick",
+      "amt": "299",
+      "shop": "Pizza Hut",
+      "ftype": "Pizza",
+      "pic": "https://placehold.jp/450x300.png",
+      "latest": "No"
+    },
+    {
+      "id": 3,
+      "name": "chicken 65",
+      "amt": "499",
+      "shop": "Pizza ",
+      "ftype": "Non-veg",
+      "pic": "https://placehold.jp/450x300.png",
+      "latest": "Yes"
+    },
+    {
+      "id": 4,
+      "name": "paper roast dosa",
+      "amt": "399",
+      "shop": "sri saivihar",
+      "ftype": "veg",
+      "pic": "https://placehold.jp/450x300.png",
+      "latest": "No"
+    },
+    {
+      "id": 5,
+      "name": "Farmers Pick",
+      "amt": "299",
+      "shop": "Pizza Hut",
+      "ftype": "Pizza",
+      "pic": "https://placehold.jp/450x300.png",
+      "latest": "No"
+    },
+    {
+      "id": 6,
+      "name": "chicken 65",
+      "amt": "499",
+      "shop": "Pizza ",
+      "ftype": "Non-veg",
+      "pic": "https://placehold.jp/450x300.png",
+      "latest": "Yes"
+    },
+    {
+        "id": 7,
+        "name": "paper roast dosa",
+        "amt": "399",
+        "shop": "sri saivihar",
+        "ftype": "veg",
+        "pic": "https://placehold.jp/450x300.png",
+        "latest": "No"
+      },
+      {
+        "id": 8,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://placehold.jp/450x300.png",
+        "latest": "No"
+      },
+      {
+        "id": 9,
+        "name": "chicken 65",
+        "amt": "499",
+        "shop": "Pizza ",
+        "ftype": "Non-veg",
+        "pic": "https://placehold.jp/450x300.png",
+        "latest": "Yes"
+      },
+      {
+        "id": 10,
+        "name": "paper roast dosa",
+        "amt": "399",
+        "shop": "sri saivihar",
+        "ftype": "veg",
+        "pic": "https://placehold.jp/450x300.png",
+        "latest": "No"
+      },
+      {
+        "id": 11,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://placehold.jp/450x300.png",
+        "latest": "No"
+      },
+      {
+        "id": 12,
+        "name": "chicken 65",
+        "amt": "499",
+        "shop": "Pizza ",
+        "ftype": "Non-veg",
+        "pic": "https://placehold.jp/450x300.png",
+        "latest": "Yes"
+      }
+  ]
+  
